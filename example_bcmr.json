@@ -1,7 +1,7 @@
 {
     "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
     "version": { "major": 1, "minor": 0, "patch": 0 },
-    "latestRevision": "2023-01-26T18:51:35.115Z",
+    "latestRevision": "2026-02-03T05:07:35.115Z",
     "registryIdentity": {
       "name": "example bcmr",
       "description": "example bcmr for tokens on chipnet"
