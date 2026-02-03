@@ -7,31 +7,31 @@
       "description": "example bcmr for tokens on chipnet"
   },
     "identities": {
-      "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95": {
-        "2023-01-26T18:51:35.115Z": {
-          "name": "test tokens",
-          "description": "",
+      "7130d8673ef9af735bf32092d2158fe5d8169049bc05867e473a993c55a88ef2": {
+        "2026-02-03T05:07:35.115Z": {
+          "name": "LOL",
+          "description": "lot of laugh",
           "token": {
-            "category": "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95",
-            "symbol": "TEST",
+            "category": "7130d8673ef9af735bf32092d2158fe5d8169049bc05867e473a993c55a88ef2",
+            "symbol": "LOL",
             "decimals": 1
           },
           "uris": {
-            "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/TEST.svg"
+            "icon": "https://raw.githubusercontent.com/anderthetabñe/example_bcmr/main/TEST.svg"
           }
         }
       },
-      "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc": {
-        "2023-02-01T18:51:35.115Z": {
-          "name": "Hero Token",
-          "description": "Token for All Heroes",
+      "fe7d77f7a6fa51c24c5ea76da6aba94102877814787eecb1a35b28cb87dbab2e": {
+        "2026-02-03T05:07:35.115Z": {
+          "name": "Super Hero Token",
+          "description": "Token for All Super Heroes",
           "token": {
-            "category": "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc",
-            "symbol": "HERO",
+            "category": "fe7d77f7a6fa51c24c5ea76da6aba94102877814787eecb1a35b28cb87dbab2e",
+            "symbol": "SHERO",
             "decimals": 1
           },
           "uris": {
-            "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/HeroToken.png"
+            "icon": "https://raw.githubusercontent.com/anderthetabñe/example_bcmr/main/HeroToken.png"
           }
         }
       }
