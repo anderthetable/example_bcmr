@@ -37,11 +37,11 @@
       },
     "5b18bb90c1727974fc3bc9deba6af40c26a7872d1cdb5095fc9f7e3c1c7b3190": {
         "2026-02-03T05:07:35.115Z": {
-          "name": "Mega Hero Token",
+          "name": "Mega Mega Hero Token",
           "description": "Token for All Mega Heroes",
           "token": {
             "category": "5b18bb90c1727974fc3bc9deba6af40c26a7872d1cdb5095fc9f7e3c1c7b3190",
-            "symbol": "MHERO",
+            "symbol": "MMHERO",
             "decimals": 0
           },
           "uris": {
